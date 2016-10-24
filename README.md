@@ -8,7 +8,7 @@ Itse liukuhihnan on lahjoittanut [Vilant Systems Oy](http://www.vilant.com/) ja 
 ![Taustalla oikealla näkyvä ruskea laatikko on koteloitu taajuusmuuntaja](https://github.com/saatokerho/Liukuhihna/blob/master/photos/Liukuhihna1.jpg)
 
 ## Tekniikka
-Liukuhihnan runko on rakennette alumiiniprofiilista. Kuminen matto rullaa kahden päätytelan välissä. Toista telaa pyörittää kulmavaihteen kautta taajuusmuuntajan ohjaama moottori. Taajuusmuuntajaan liitetyn potenttiometrin kautta voidaan säätää liukuhihnan nopeutta.
+Liukuhihnan runko on rakennettu alumiiniprofiilista. Kuminen matto rullaa kahden päätytelan välissä. Toista telaa pyörittää kulmavaihteen kautta taajuusmuuntajan ohjaama moottori. Taajuusmuuntajaan liitetyn potenttiometrin kautta voidaan säätää liukuhihnan nopeutta.
 
 ## Käyttö
 Liukuhihna toimii arkena korkeana, säätöhenkisenä seisomapöytänä kiltahuone ASkissa. Rullaavan hihnan avulla pöydästä saa myös automaattisesti itsensä siivoavan. (Käyttö vähäistä nestevahinkojen uhan takia.)
