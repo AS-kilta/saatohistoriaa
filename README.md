@@ -22,6 +22,9 @@ Muita odotettuja ominaisuuksia olisi esimerkiksi: Varastosaldojen ylläpitämine
 Keittiön kahvikaapin oveen upotettu kosketusnäyttö, jonka avulla suoritetaan maksu.
 * [Kosketusnäytöstä soodan sivuilla](http://sooda.dy.fi/2010/7/30/kiva-iso-kosketusnaytto/)
 * [Piikkilistasta soodan sivuilla](http://sooda.dy.fi/2010/8/17/piikkilista-nyt-sahkoisena/)
+
 ![Sooda demonstroi miten kehittyneen AI:n animoidut kasvot tulevaisuudessa palvelevat kiltalaista kaapinoven näytöllä.](https://github.com/saatokerho/ASkipiikki/blob/master/photos/soodapiikki1.jpg)
+
 ![Kosketusnäyttö upotettuna kaapin oveen.](https://github.com/saatokerho/ASkipiikki/blob/master/photos/soodapiikki2.jpg)
+
 ![Valmis laitteisto keittiöön asennettuna.](https://github.com/saatokerho/ASkipiikki/blob/master/photos/soodapiikki3.jpg)
