@@ -18,3 +18,5 @@ PikkuRobokädelle on koodattuna alustava käänteinen kinematiikka soodan toimes
 
 ## Tekniikka
 Robokäden servot ovat normaaleja harrasteservoja. Valitettavasti niiden voimin käsi ei jaksa nostaa edes täyttä Powerkingiä ja puolityhjän lasisen shottilasin käsitteleminenkin tuntuu tuottavan ongelmia. Tarttujan rikkoutuneen servon korvaaminen uudella maksaisi noin 3-10€ (24.10.2016 hintojen perusteella).
+
+## Käyttö
