@@ -1,4 +1,4 @@
-# PikkuRobokasi
+# PikkuRobokäsi
 PikkuRobokäsi on näppärä ja pieni viiden nivelen robottikäsi. Yksi nivel pyörittää alustaa pystysuuntaisen akselin ympäri ja loput nivelistä ovat keskenään samassa tasossa kohtisuorassa jalustaan nähden. PikkuRobokäsi saatiin alunperin syyskuussa 2010.
 
 ![PikkuRobokäsi](https://github.com/saatokerho/PikkuRobokasi/blob/master/photos/Robottikasi1.jpg)
